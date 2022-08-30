@@ -1,6 +1,6 @@
 This is my ALX BUDDIES TRAINING TASK README FILE
 
-#Heading One
+# Heading One
 ##Heading Two
 ###Heading Three
 ####Heading Four
